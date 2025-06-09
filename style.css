@@ -150,6 +150,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 0 auto;
 }
 .hero__text {
   display: flex;
@@ -459,6 +460,7 @@ html {
   justify-content: space-between;
   gap: 40px;
   margin-bottom: 115px;
+  margin: 0 auto;
 }
 
 .trending__card {
@@ -473,6 +475,7 @@ html {
   justify-content: center;
   flex-direction: column;
   position: relative;
+  margin: 0 auto;
 }
 
 .cout__frame {
@@ -662,6 +665,7 @@ html {
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
+  margin: 0 auto;
 }
 
 .recently__header {
@@ -805,6 +809,7 @@ html {
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
+  margin: 0 auto;
 }
 .top__collection-header {
   width: 1243px;
@@ -825,6 +830,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 0 auto;
 }
 
 .filter__collection {
@@ -1035,6 +1041,7 @@ html {
   align-items: center;
   justify-content: space-between;
   padding-top: 75px;
+  margin: 0 auto;
 }
 
 .unleash:before {
@@ -1169,6 +1176,7 @@ html {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 0 auto;
 }
 .notification__dot {
   display: block;
@@ -1267,6 +1275,7 @@ html {
 .sellers__container {
   display: flex;
   align-items: start;
+  margin: 0 auto;
   flex-direction: column;
 }
 
@@ -1319,6 +1328,7 @@ html {
   border-radius: 50%;
   top: 0;
   right: 0;
+  margin: 0 auto;
 }
 
 .rank__count {
@@ -1493,6 +1503,7 @@ html {
   align-items: center;
   justify-content: space-between;
   padding: 31px;
+  margin: 0 auto;
 }
 .banner__desc {
   width: 476px;
@@ -1579,6 +1590,7 @@ html {
 
 .faq__container {
   display: flex;
+  margin: 0 auto;
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
@@ -1636,6 +1648,7 @@ html {
 }
 .footer__container {
   display: flex;
+  margin: 0 auto;
   align-items: center;
   flex-direction: column;
   padding: 92px 0 81px;
